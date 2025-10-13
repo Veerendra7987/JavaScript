@@ -1,2 +1,2 @@
 # JavaScript
-This is my Java Script Repository
+This contains my JavaScript projects.
