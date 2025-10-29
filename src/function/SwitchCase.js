@@ -5,7 +5,6 @@ let dayOfWeek = 2;
       break;
    case 2:      dayName = "Monday";
       break;
-   // ... (continue for other days)
    default:
       dayName = "Invalid Day";
  }
