@@ -1,10 +1,10 @@
-// let hour=14;
+let hour=14;
 
-// if(hour<12){
-//   console.log("Good Morning");
-// }else{
-//   console.log("Good AfterNoon");
-// }
+if(hour<12){
+  console.log("Good Morning");
+}else{
+  console.log("Good AfterNoon");
+}
 
 let LoggedIn = false;
  if (LoggedIn) {
